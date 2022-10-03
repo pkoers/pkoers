@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FMUG App](https://github.com/pkoers/fmug)
 
-- 🌱 I’m currently learning **React** & **Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **IT & Aviation 🛫**
 
