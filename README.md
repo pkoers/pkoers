@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A passionate full-stack developer and Business Analyst from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Agora](https://github.com/pkoers/agora)
+- 🔭 I’m currently working on retiring [Agora](https://github.com/pkoers/agora)
 
 - 🌱 I’m currently learning **Angular**
 
